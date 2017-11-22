@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1) About me
 
-Since I finished my studies at the University of Malaga I decided to create new startups in order to self learning about creating companies and project management. Although I didn't work much time for other's company I have been working in my own startups as software developer and CTO. That has been without doubt one of the most important experiences in my life because it has given me the opportunity to meet new people and learn again and again. I am a person who needs new challenges everyday and entrepreneurship is the most interesting way to get it.
+Since I was a child I liked technology and how people interact with it. Studying Computer Engineering in the University gave me the chance to create new things and modify existing ones through Software development. Because of this I am passionated with mobile development, specially iOS development. We create software for people and let them interact with the rest of the world with a simple gesture. That is amazing! 
 
 ## [](#header-2) Experience
 
