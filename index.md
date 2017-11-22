@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# [](#header-1) About me
+
+Since I finished my studies at the University of Malaga I decided to create new startups in order to self learning about creating companies and project management. Although I didn't work much time for other's company I have been working in my own startups as software developer and CTO. That has been without doubt one of the most important experiences in my life because it has given me the opportunity to meet new people and learn again and again. I am a person who needs new challenges everyday and entrepreneurship is the most interesting way to get it.
+
 ## [](#header-2) Experience
 
 
@@ -65,7 +69,23 @@ Programming new features for the internal website and desktop programs and maint
 
 ### [](#header-3) Informatics Engineering degree at University of Malaga
 
-<span style="color:#565656;"> 2012 - 2016</span> · Madrid, Spain
+<span style="color:#565656;"> 2012 - 2016</span> · Málaga, Spain
+
+## [](#header-2) Projects
+
+### [Netcube domotics](http://www.diariosur.es/malaga-capital/premio-talento-joven-20170706223328-nt.html) 
+
+
+Home automation project that aims to offer the client the possibility of controlling whatever using a smartphone. In this video, you see how LED lights are changing their status when the client select an effect with the smartphone.
+
+[Netcube LED control](https://drive.google.com/file/d/1wO42RLR1vstJttWzICQyszFhlZaw3bDI/view)
+
+### [PassitEDU](https://www.youtube.com/passitedu) 
+
+
+Youtube channel where Maths problems were explained step-by-step and a website where students could share their notes and ask for help to the community in order to pass their exams.
+
+[PassitEDU on media](http://www.diariosur.es/cronica-universitaria/201502/17/alumnos-crean-para-compartir-20150217003554-v.html)
 
 
 ## [](#header-2) Languages
